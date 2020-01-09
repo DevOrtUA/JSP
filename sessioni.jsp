@@ -23,6 +23,7 @@
 	%>
 	 
 	<p>Accessi n* <%= x.intValue() %></p>
+	<p>ciao</p>
 	<p><a href="sessioni.jsp">jsp</a></p>
 
 	</body>
